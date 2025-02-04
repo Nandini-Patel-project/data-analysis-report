@@ -1,16 +1,16 @@
 # data-analysis-report
 
-COMPANY: CODTECH IT SOLUTIONS
+**COMPANY:** CODTECH IT SOLUTIONS
 
-NAME: Nandini Patel
+**NAME:** Nandini Patel
 
-INTERN ID: CT08LEW
+**INTERN ID:** CT08LEW
 
-DOMAIN: Python Programmer
+**DOMAIN:** Python Programmer
 
-BATCH DURATION: January 10th, 2025 to february 10th, 2025
+**BATCH DURATION:** January 10th, 2025 to february 10th, 2025
 
-MENTOR NAME: NEELA SHANTOSH
+**MENTOR NAME:** NEELA SHANTOSH
 
 
 This project demonstrates how to analyze student scores from a CSV file and generate a detailed PDF report with insights.
