@@ -1,7 +1,5 @@
 # data-analysis-report
 
-**Weather Forecast API Integration and Data Visualization**
-
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: Nandini Patel
